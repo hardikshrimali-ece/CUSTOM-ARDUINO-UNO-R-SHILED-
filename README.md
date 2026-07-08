@@ -1,4 +1,4 @@
-# CUSTOM-ARDUINO-UNO-R-SHILED-
+# CUSTOM-ARDUINO-UNO-R3-SHILED-
 Arduino Uno R3 Multifunction Shield | KiCad PCB Design | Two-Layer PCB | Open Source Hardware
 Arduino Uno R3 Multifunction Shield
 
